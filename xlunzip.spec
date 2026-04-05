@@ -1,12 +1,12 @@
 Summary:	Test tool for lzip_decompress Linux kernel module
 Summary(pl.UTF-8):	Narzędzie testowe dla modułu jądra Linuksa lzip_decompress
 Name:		xlunzip
-Version:	0.9
+Version:	0.10
 Release:	1
 License:	GPL v2+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/xlunzip/%{name}-%{version}.tar.lz
-# Source0-md5:	ad9d34c5f2e7be26b0d6bd3022d0fab2
+# Source0-md5:	5fd50d74dcd3b2581be3b8c61e249ee6
 URL:		http://savannah.nongnu.org/projects/lzip/
 BuildRequires:	lzip
 BuildRequires:	tar >= 1:1.22
